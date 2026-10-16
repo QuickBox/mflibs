@@ -4,11 +4,13 @@ Issues and pull requests are welcome. mflibs is loaded by other tools (QuickBox 
 
 ## Reporting bugs and asking for features
 
+Not sure whether it is a bug, or want to talk an idea through first? Ask on the [QuickBox Discord](https://discord.gg/mca7RSv5pa).
+
 Open an issue with the Bash version (`bash --version`), the distro, a minimal script that reproduces the problem, and the output you expected.
 
 ## Security reports
 
-Do not open a public issue for a security problem. Email echo@quickbox.io with `[Security]` at the start of the subject line, and describe the problem and how to reproduce it. We will reply and coordinate a fix with you.
+Do not open a public issue or post in Discord about a security problem. Email echo@quickbox.io with `[Security]` at the start of the subject line, and describe the problem and how to reproduce it. We will reply and coordinate a fix with you.
 
 ## Making a change
 

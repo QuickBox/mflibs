@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please report security vulnerabilities privately. Email echo@quickbox.io with `[Security]` at the start of the subject line. Do not file public issues for security problems.
+Please report security vulnerabilities privately. Email echo@quickbox.io with `[Security]` at the start of the subject line. Do not file public issues or post in Discord about security problems.
 
 Include as much of the following as you can:
 

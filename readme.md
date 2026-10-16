@@ -61,6 +61,10 @@ Logging goes to the file named by `mflibs_log_location`. Set and `export` it bef
 
 The loader itself is documented in [docs/init.sh.md](docs/init.sh.md). Every function carries its usage in the source comments above it.
 
+## Community and support
+
+Questions, help and general discussion happen on the [QuickBox Discord](https://discord.gg/mca7RSv5pa). Use GitHub issues for bugs and feature requests so they can be tracked.
+
 ## Contributing
 
 Issues and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md). Report security problems as described in [security.md](security.md).
